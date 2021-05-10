@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-
+The purpose of this project was to help Louise visualize and analyze how other Kickstarters fared compared to her own play and Kickstarter, Fever.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
